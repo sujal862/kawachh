@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Kawach
 
 Kawach is a MERN stack app designed to provide secure and private document sharing, ensuring that your sensitive data remains safe from misuse.
@@ -92,3 +93,6 @@ We’re excited to connect with you and appreciate your interest in Kawach!
 
 ## 📜 License
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for more details.
+=======
+# kawachh
+>>>>>>> 1e4b733419889f96c48dd2b38704e96c3bf0242b
