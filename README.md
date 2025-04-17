@@ -100,7 +100,7 @@ cd kawachh
 
 4. Start the frontend application:  
    ```bash
-   npm start
+   npm run dev
    ```  
 
 ---
